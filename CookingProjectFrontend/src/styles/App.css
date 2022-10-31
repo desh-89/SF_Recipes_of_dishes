@@ -1,0 +1,12 @@
+body {
+	background-image: url('../images/back.jpeg');
+	background-position-x: left;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+table,
+h1,
+h3 {
+	max-width: 65%;
+}
